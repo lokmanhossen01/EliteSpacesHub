@@ -1,0 +1,80 @@
+[
+    {
+      "id": 1,
+      "estate_title": "Modern Apartment in City",
+      "segment_name": "Apartment",
+      "description": "Contemporary apartment offering urban living with convenience and style.",
+      "price": "$3,000/month",
+      "status": "Rent",
+      "area": "1000 sq ft",
+      "location": "Downtown, Chicago",
+      "facilities": ["Balcony", "Fitness Center", "Concierge Service"],
+      "image": "https://i.ibb.co/HdvZyxz/cad1jpg.jpg",
+      "view_property_button": "View Property"
+    },
+    {
+      "id": 2,
+      "estate_title": "Cozy Townhouse in Suburban",
+      "segment_name": "Townhouse",
+      "description": "Charming townhouse nestled in a quiet suburban neighborhood, perfect for families.",
+      "price": "$400,000",
+      "status": "Sale",
+      "area": "2000 sq ft",
+      "location": "Suburban Area, New York",
+      "facilities": ["Backyard", "Garage", "Fireplace"],
+      "image": "https://i.ibb.co/w4RybMs/card2.jpg",
+      "view_property_button": "View Property"
+    },
+    {
+      "id": 3,
+      "estate_title": "Spacious Single-Family Home",
+      "segment_name": "Single-family Home",
+      "description": "A comfortable single-family home with ample space for a growing family.",
+      "price": "$600,000",
+      "status": "Sale",
+      "area": "2500 sq ft",
+      "location": "Suburban Area, Los Angeles",
+      "facilities": ["Backyard", "Garage", "Swimming Pool"],
+      "image": "https://i.ibb.co/r05pdsv/card3.jpg",
+      "view_property_button": "View Property"
+    },
+    {
+      "id": 4,
+      "estate_title": "Student Housing Complex",
+      "segment_name": "Student Housing",
+      "description": "Purpose-built student housing complex offering convenience and modern amenities.",
+      "price": "$800/month",
+      "status": "Rent",
+      "area": "500 sq ft (per unit)",
+      "location": "University Campus, Boston",
+      "facilities": ["Study Lounge", "Fitness Center", "Laundry Facilities"],
+      "image": "https://i.ibb.co/N271ZHJ/card4.jpg",
+      "view_property_button": "View Property"
+    },
+    {
+      "id": 5,
+      "estate_title": "Senior Living Community",
+      "segment_name": "Senior Living",
+      "description": "Active senior living community providing comfort, care, and a vibrant social atmosphere.",
+      "price": "$4,000/month",
+      "status": "Rent",
+      "area": "1200 sq ft (per unit)",
+      "location": "Retirement Village, Florida",
+      "facilities": ["Community Center", "Restaurant", "Gardens"],
+      "image": "https://i.ibb.co/QY2h7gp/card5.jpg",
+      "view_property_button": "View Property"
+    },
+    {
+      "id": 6,
+      "estate_title": "Luxury Vacation Rental",
+      "segment_name": "Vacation Rental",
+      "description": "Luxurious vacation rental offering relaxation and indulgence in a stunning destination.",
+      "price": "$500/night",
+      "status": "Rent",
+      "area": "3000 sq ft",
+      "location": "Beachfront, Hawaii",
+      "facilities": ["Private Beach Access", "Infinity Pool", "Outdoor Kitchen"],
+      "image": "https://i.ibb.co/JCvnCF7/card6.jpg",
+      "view_property_button": "View Property"
+    }
+  ]
